@@ -1,0 +1,4 @@
+platform :ios, ‘8.0’
+target :’TestDemo’ do    
+pod 'MBProgressHUD', '~> 0.9.2'
+end
